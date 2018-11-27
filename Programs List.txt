@@ -1,0 +1,24 @@
+List of programs:-
+1). WAP to print HELLO WORD.
+2). WAP to find even/odd no.
+3). WAP to print  factorial of any no.
+4). WAP to calculate area of circle.
+5). WAP to calculate area of rectangle.
+6). WAP to calculate perimeter of rectangle.
+7). WAP to calculate circumference of circle.
+8). WAP to find out the largest no. among  three.
+9). WAP to display seasons using nested if else.
+10). WAP using switch case.
+11). WAP using loops :- while, do while ,for.
+12). WAP using break and continue statements.
+13). WAP to display addition and multiplication of matrix.
+14). WAP to find largest, second largest, third largest        elements of an array.
+15).  WAP using default and copy constructor.
+16). WAP using this pointer.
+17). WAP using extends keyword.
+18). WAP using member access and inheritance.
+19). WAP using super keyword.
+20). WAP using method overriding.
+21). WAP using dynamic method dispatch.
+22). WAP using final keyword.
+23). Create a class for employee whose object are records for an employee this class will be a derived class of the class person which you will have to either into the same file or use a different file for that. Employee got has an employee id and the salary and a year the employee started work (use integer for that single value).
